@@ -2,8 +2,9 @@ body{
     background-color: #DAA520;;
 }
 .header{
-    display: inline-flex;
-    padding: 32px 249px 627px 32px;
+    display:  flex;
+
+    padding: 32px;
     align-items: flex-start;
     gap: 32px;
 }
